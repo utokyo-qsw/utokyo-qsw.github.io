@@ -1,1 +1,1 @@
-This repository contains source codes for https://qsw.s.u-tokyo.ac.jp/
+This repository contains source codes for https://qsw.phys.s.u-tokyo.ac.jp/
