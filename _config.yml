@@ -1,3 +1,6 @@
+markdown: kramdown
 theme: jekyll-theme-slate
 title: Quantum Software Project
 show_downloads: false
+github:
+  is_project_page: false
