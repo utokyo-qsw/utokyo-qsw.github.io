@@ -10,6 +10,7 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2021/09/27] Preprint: Quantum-gate Decomposer [arXiv:2109.13223](http://arxiv.org/abs/2109.13223)
 * [2021/07/01] 大久保毅特任准教授が着任しました
 * [2021/06/01] 東京大学「量子ソフトウェア」寄付講座を開設しました
 * [2021/05/24] 人事公募: 「量子ソフトウェア」寄付講座特任助教 (公募締切 2021年7月5日(月)) [[リンク]](https://www.s.u-tokyo.ac.jp/ja/recruit/?id=1261)
@@ -17,8 +18,9 @@ title: Quantum Software Project
 
 ### メンバー
 
-* 藤堂眞治
-* 大久保毅
+* [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria)
+* [大久保毅](https://tsuyoshiokubo.wordpress.com)
+*  特任助教 (着任予定)
 
 ### 協賛企業
 
