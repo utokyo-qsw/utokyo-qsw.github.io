@@ -10,7 +10,7 @@ title: Quantum Software Project
 
 ### ニュース
 
-* [2021/11/xx] [量子ソフトウェアワークショップ：「XXXX」を開催します](workshop202112)
+* [2021/11/17] 2021年12月7日に[「第1回量子ソフトウェアワークショップ: テンソルネットワークと量子計算の展望」](workshop202112)を開催します
 * [2021/09/27] Preprint: Quantum-gate Decomposer [arXiv:2109.13223](http://arxiv.org/abs/2109.13223)
 * [2021/07/01] 大久保毅特任准教授が着任しました
 * [2021/06/01] 東京大学「量子ソフトウェア」寄付講座を開設しました
@@ -19,7 +19,7 @@ title: Quantum Software Project
 
 ### イベント
 
-* [2021/12/07] [量子ソフトウェアワークショップ：「XXXX」](workshop202112)
+* [2021/12/07] [第1回量子ソフトウェアワークショップ: テンソルネットワークと量子計算の展望](workshop202112)
 
 ### メンバー
 
@@ -36,3 +36,7 @@ title: Quantum Software Project
 * [東京大学大学院理学系研究科附属 知の物理学研究センター](https://www.phys.s.u-tokyo.ac.jp/lp/ipi/)
 * [東京大学大学院理学系研究科物理学専攻](https://www.phys.s.u-tokyo.ac.jp/)
 * [東京大学大学院理学系研究科物理学専攻 藤堂研究室](https://exa.phys.s.u-tokyo.ac.jp/)
+
+### お問い合わせ
+
+* [ipi_admin@phys.s.u-tokyo.ac.jp](mailto:ipi_admin@phys.s.u-tokyo.ac.jp)
