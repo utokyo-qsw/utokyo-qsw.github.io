@@ -10,6 +10,7 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2021/12/01] プレスリリース: トポロジカルスピン結晶の新しい制御法を発見 [[リンク]](https://www.s.u-tokyo.ac.jp/ja/press/2021/7662/)
 * [2021/11/17] 2021年12月7日に[「第1回量子ソフトウェアワークショップ: テンソルネットワークと量子計算の展望」](workshop202112)を開催します
 * [2021/09/27] Preprint: Quantum-gate Decomposer [arXiv:2109.13223](http://arxiv.org/abs/2109.13223)
 * [2021/07/01] 大久保毅特任准教授が着任しました
