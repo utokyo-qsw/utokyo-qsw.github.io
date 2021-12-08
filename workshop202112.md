@@ -33,7 +33,7 @@ title: Quantum Software Project - 第1回量子ソフトウェアワークショ
 
 <table>
 <tr><td> 13:00-13:10 </td><td>藤堂眞治 (東京大学大学院理学系研究科)<br/>はじめに</td></tr>
-<tr><td> 13:10-13:50 </td><td>大久保毅 (東京大学大学院理学系研究科)<br/>量子物理とテンソルネットワーク<br/><a href="assets/images/20211207_nagai.pdf">[講演資料]</a></td></tr>
+<tr><td> 13:10-13:50 </td><td>大久保毅 (東京大学大学院理学系研究科)<br/>量子物理とテンソルネットワーク<br/><a href="assets/images/20211207_okubo.pdf">[講演資料]</a></td></tr>
 <tr><td> 13:50-14:30 </td><td>原田健自 (京都大学大学院情報学研究科)<br/>機械学習におけるテンソルネットワークの活用<br/>[講演資料]</td></tr>
 <tr><td> 14:30-15:10 </td><td>永井隆太郎 (blueqat株式会社)<br/>光量子計算へのテンソルネットワーク活用<br/><a href="assets/images/20211207_nagai.pdf">[講演資料]</a></td></tr>
 <tr><td> 15:10-15:30 </td><td>休憩</td></tr>
