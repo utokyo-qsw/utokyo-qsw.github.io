@@ -38,7 +38,7 @@ title: Quantum Software Project - 第1回量子ソフトウェアワークショ
 <tr><td> 14:30-15:10 </td><td>永井隆太郎 (blueqat株式会社)<br/>光量子計算へのテンソルネットワーク活用<br/><a href="assets/files/20211207_nagai.pdf">[講演資料]</a></td></tr>
 <tr><td> 15:10-15:30 </td><td>休憩</td></tr>
 <tr><td> 15:30-16:10 </td><td>杉崎研司 (大阪市立大学大学院理学研究科)<br/>FTQCアルゴリズムを用いた分子の高精度量子化学計算に向けて<br/><a href="assets/files/20211207_sugisaki.pdf">[講演資料]</a></td></tr>
-<tr><td> 16:10-16:50 </td><td> 岡本穏治 (日本電気株式会社)<br/>材料計算屋からみた量子計算への期待・不安<br/>[講演資料]</td></tr>
+<tr><td> 16:10-16:50 </td><td> 岡本穏治 (日本電気株式会社)<br/>材料計算屋からみた量子計算への期待・不安<br/><a href="assets/files/20211207_okamoto.pdf">[講演資料]</a></td></tr>
 <tr><td> 16:50-17:05</td><td>全体討論</td></tr>
 <tr><td> 17:05-17:10</td><td>おわりに</td></tr>
 </table>
