@@ -22,6 +22,10 @@ title: Quantum Software Project
 
 * [2021/12/07] [第1回量子ソフトウェアワークショップ: テンソルネットワークと量子計算の展望](workshop202112)
 
+### 講義
+
+* [2021/12] 量子ソフトウェアパイロット講義: 計算科学・量子計算における情報圧縮
+
 ### メンバー
 
 * [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria)
