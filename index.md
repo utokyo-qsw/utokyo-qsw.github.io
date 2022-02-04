@@ -10,6 +10,7 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2022/02/03] New paper: Bond-weighted tensor renormalization group, [Phys. Rev. B 105, L060402 (2022)](http://dx.doi.org/10.1103/PhysRevB.105.L060402)
 * [2021/12/01] プレスリリース: トポロジカルスピン結晶の新しい制御法を発見 [[リンク]](https://www.s.u-tokyo.ac.jp/ja/press/2021/7662/)
 * [2021/11/17] 2021年12月7日に[「第1回量子ソフトウェアワークショップ: テンソルネットワークと量子計算の展望」](workshop202112)を開催します
 * [2021/09/27] Preprint: Quantum-gate Decomposer [arXiv:2109.13223](http://arxiv.org/abs/2109.13223)
