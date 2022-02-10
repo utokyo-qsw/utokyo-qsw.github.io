@@ -10,6 +10,7 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2022/02/10] 2022年3月2日に[「第1回量子ソフトウェア産学協働ゼミ」](joint202203)を開催します
 * [2022/02/03] New paper: Bond-weighted tensor renormalization group, [Phys. Rev. B 105, L060402 (2022)](http://dx.doi.org/10.1103/PhysRevB.105.L060402)
 * [2021/12/01] プレスリリース: トポロジカルスピン結晶の新しい制御法を発見 [[リンク]](https://www.s.u-tokyo.ac.jp/ja/press/2021/7662/)
 * [2021/11/17] 2021年12月7日に[「第1回量子ソフトウェアワークショップ: テンソルネットワークと量子計算の展望」](workshop202112)を開催します
@@ -22,16 +23,18 @@ title: Quantum Software Project
 ### イベント
 
 * [2021/12/07] [第1回量子ソフトウェアワークショップ: テンソルネットワークと量子計算の展望](workshop202112)
+* [2022/02/28] 第1回社会人向け講座
+* [2022/03/02] [第1回量子ソフトウェア産学協働ゼミ](joint202203)
 
 ### 講義
 
-* [2021/12] 量子ソフトウェアパイロット講義: 計算科学・量子計算における情報圧縮
+* [2021/12] [量子ソフトウェアパイロット講義: 計算科学・量子計算における情報圧縮](https://github.com/utokyo-qsw/data-compression)
 
 ### メンバー
 
 * [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria)
 * [大久保毅](https://tsuyoshiokubo.wordpress.com)
-*  特任助教 (着任予定)
+*  特任助教 (2022年4月 着任予定)
 
 ### 協賛企業
 
