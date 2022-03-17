@@ -32,9 +32,9 @@ title: Quantum Software Project - 第1回量子ソフトウェア社会人講座
 ### プログラム (予定)
 
 <table>
-<tr><td>17:30-18:15</td><td>大久保 毅 (東京大学大学院理学系研究科)<br/>量子回路と量子アルゴリズムの基礎<br/><a href="assets/files/20220228_okubo.pdf">[資料]</a></td></tr>
+<tr><td>17:30-18:15</td><td>大久保 毅 (東京大学大学院理学系研究科)<br/>量子回路と量子アルゴリズムの基礎<br/><a href="assets/files/20220228_okubo.pdf">[資料]</a> <a href="https://drive.google.com/file/d/12yWPVFeqM3xS0jC8yuS2r3JoIUP6Khv-/view?usp=sharing">[講義動画]</a></td></tr>
 <tr><td>18:15-18:25</td><td>休憩</td></tr>
-<tr><td>18:25-19:00</td><td>白根昌之 (日本電気株式会社システムプラットフォーム研究所)<br/>量子コンピュータの動作原理と研究開発状況<br/><a href="assets/files/20220228_shirane.pdf">[資料]</a></td></tr>
+<tr><td>18:25-19:00</td><td>白根昌之 (日本電気株式会社システムプラットフォーム研究所)<br/>量子コンピュータの動作原理と研究開発状況<br/><a href="assets/files/20220228_shirane.pdf">[資料]</a> <a href="https://drive.google.com/file/d/1VHeHHMz8AFrL7Q_62-Oc3uDD1TAhXPyO/view?usp=sharing">[講義動画]</a></td></tr>
 </table>
 
 ### 主催
