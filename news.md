@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantum Software Project
+title: Quantum Software Project - News
 ---
 
 東京大学大学院理学系研究科
@@ -8,6 +8,8 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2022/04/01] 秋山進一郎特任助教が着任しました
+* [2022/03/17] 2022年2月28日の[「第1回量子ソフトウェア社会人講座」](openseminar202202)の講義動画をアップロードしました
 * [2022/03/02] New paper: Randomized-gauge test for machine learning of Ising model order parameter, [J. Phys. Soc. Jpn. 91, 044001 (9pp) (2022)](http://dx.doi.org/10.7566/JPSJ.91.044001)
 * [2022/02/14] 2022年2月28日に[「第1回量子ソフトウェア社会人講座」](openseminar202202)を開催します
 * [2022/02/10] 2022年3月2日に[「第1回量子ソフトウェア産学協働ゼミ」](joint202203)を開催します

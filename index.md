@@ -10,12 +10,11 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2022/04/01] 秋山進一郎特任助教が着任しました
 * [2022/03/17] 2022年2月28日の[「第1回量子ソフトウェア社会人講座」](openseminar202202)の講義動画をアップロードしました
 * [2022/03/02] New paper: Randomized-gauge test for machine learning of Ising model order parameter, [J. Phys. Soc. Jpn. 91, 044001 (9pp) (2022)](http://dx.doi.org/10.7566/JPSJ.91.044001)
 * [2022/02/14] 2022年2月28日に[「第1回量子ソフトウェア社会人講座」](openseminar202202)を開催します
 * [2022/02/10] 2022年3月2日に[「第1回量子ソフトウェア産学協働ゼミ」](joint202203)を開催します
-* [2022/02/03] New paper: Bond-weighted tensor renormalization group, [Phys. Rev. B 105, L060402 (2022)](http://dx.doi.org/10.1103/PhysRevB.105.L060402)
-* [2021/12/01] プレスリリース: トポロジカルスピン結晶の新しい制御法を発見 [[リンク]](https://www.s.u-tokyo.ac.jp/ja/press/2021/7662/)
 
 [これまでのニュース...](news.md)
 
@@ -29,13 +28,14 @@ title: Quantum Software Project
 
 ### 講義
 
+* [2022/10] [計算科学・量子計算における情報圧縮](https://catalog.he.u-tokyo.ac.jp/detail?code=3752-094&year=2022) (大学院・Aセメスター)
 * [2021/12] [量子ソフトウェアパイロット講義: 計算科学・量子計算における情報圧縮](https://github.com/utokyo-qsw/data-compression)
 
 ### 教員
 
 * [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria)
 * [大久保毅](https://tsuyoshiokubo.wordpress.com)
-* 秋山進一郎 (2022年4月 着任予定)
+* 秋山進一郎
 
 ### 協賛企業
 
@@ -46,6 +46,7 @@ title: Quantum Software Project
 * [東京大学大学院理学系研究科附属 知の物理学研究センター](https://www.phys.s.u-tokyo.ac.jp/lp/ipi/)
 * [東京大学大学院理学系研究科物理学専攻](https://www.phys.s.u-tokyo.ac.jp/)
 * [東京大学大学院理学系研究科物理学専攻 藤堂研究室](https://exa.phys.s.u-tokyo.ac.jp/)
+* [東京大学量子イニシアティブ](https://www.u-tokyo.ac.jp/adm/fsi/ja/projects/quantum/project_00066.html)
 
 ### お問い合わせ
 
