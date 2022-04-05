@@ -34,11 +34,11 @@ title: Quantum Software Project - 協賛企業・協力企業一覧
 </tr>
 <tr>
   <td><a href="https://jpn.nec.com/"><div class="logo"><img alt="日本電気株式会社" src="assets/images/nec.png" width="300"/></div></a></td>
-  <td><a href="https://www.unisys.co.jp/"><div class="logo"><img alt="日本ユニシス株式会社" src="assets/images/unisys.gif" width="300"/></div></a></td>
+  <td><a href="https://www.biprogy.com/"><div class="logo"><img alt="BIPLOGY株式会社" src="assets/images/biprogy.png" width="300"/></div></a></td>
 </tr>
 <tr>
   <td><a href="https://jpn.nec.com/">日本電気株式会社</a></td>
-  <td><a href="https://www.unisys.co.jp/">日本ユニシス株式会社</a></td>
+  <td><a href="https://www.biprogy.com/">BIPLOGY株式会社</a></td>
 </tr>
 <tr>
   <td><a href="https://www.fujitsu.com/jp/about/resources/terms/howtolink"><div class="logo"><img alt="富士通株式会社" src="assets/images/fujitsu.jpg" width="300"/></div></a></td>
