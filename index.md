@@ -35,7 +35,7 @@ title: Quantum Software Project
 ### 教員
 
 * [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria)
-* [大久保毅](https://tsuyoshiokubo.wordpress.com)
+* [大久保毅](https://tsuyoshi-okubo.com)
 * 秋山進一郎
 
 ### 協賛企業
