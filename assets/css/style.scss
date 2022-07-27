@@ -3,14 +3,14 @@
 
 @import "jekyll-theme-slate";
 
-table, th, td {
-    border: none;
-}
-
 img {
     border: none;
     margin: 0rem;
     padding: 0rem;
+}
+
+.noborder {
+    border: none;
 }
 
 .logo {
