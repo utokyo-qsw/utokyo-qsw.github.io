@@ -1,0 +1,9 @@
+services:
+  jekyll:
+    build: .
+    container_name: local_jekyll
+    volumes:
+        - .:/site
+    command: sh -c 'cd /site; bundler install; jekyll build --watch'
+    ports:
+      - '4000:4000'
