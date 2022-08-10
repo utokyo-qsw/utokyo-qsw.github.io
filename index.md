@@ -36,7 +36,7 @@ title: Quantum Software Project
 
 * [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria)
 * [大久保毅](https://tsuyoshi-okubo.com)
-* 秋山進一郎
+* [秋山進一郎](https://akiyama-es.github.io/index.html)
 
 ### 協賛企業
 
