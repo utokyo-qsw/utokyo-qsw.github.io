@@ -8,6 +8,8 @@ title: Quantum Software Project - News
 
 ### ニュース
 
+* [2022/08/17] 2022年9月7日に[「第2回量子ソフトウェア社会人講座」](openseminar202209)を開催します
+* [2022/08/10] Preprint: Bond-weighting method for the Grassmann tensor renormalization group [arXiv:2208.03227](https://arxiv.org/abs/2208.03227)
 * [2022/06/20] 2022年7月14日に[「第1回量子ソフトウェアシンポジウム」](symposium202207)を開催します
 * [2022/04/01] 秋山進一郎特任助教が着任しました
 * [2022/03/17] 2022年2月28日の[「第1回量子ソフトウェア社会人講座」](openseminar202202)の講義動画をアップロードしました

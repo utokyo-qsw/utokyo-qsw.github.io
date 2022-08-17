@@ -15,7 +15,6 @@ title: Quantum Software Project
 * [2022/06/20] 2022年7月14日に[「第1回量子ソフトウェアシンポジウム」](symposium202207)を開催します
 * [2022/04/01] 秋山進一郎特任助教が着任しました
 * [2022/03/17] 2022年2月28日の[「第1回量子ソフトウェア社会人講座」](openseminar202202)の講義動画をアップロードしました
-* [2022/03/02] New paper: Randomized-gauge test for machine learning of Ising model order parameter, [J. Phys. Soc. Jpn. 91, 044001 (9pp) (2022)](http://dx.doi.org/10.7566/JPSJ.91.044001)
 
 [これまでのニュース...](news.md)
 
