@@ -28,7 +28,7 @@ title: Quantum Software Project - 第2回量子ソフトウェア社会人講座
 ### 参加申し込み
 
 * 参加申し込み締切: 2022年9月5日(月) 13:00
-* [参加申し込みフォーム](https://forms.gle/xxx)よりお申し込みください
+* [参加申し込みフォーム](https://forms.gle/Wfj9J1mSieXbR8PCA)よりお申し込みください
 
 ### プログラム (予定)
 
