@@ -10,11 +10,12 @@ title: Quantum Software Project
 
 ### ニュース
 
+
 * [2022/08/17] 2022年9月7日に[「第2回量子ソフトウェア社会人講座」](openseminar202209)を開催します
+* [2022/08/15] 「量子コンピューティングを切り開く」[JST産学官連携ジャーナル 2022年8月号](https://www.jst.go.jp/tt/journal/journal_contents/2022/08/2208-04_article.html)
 * [2022/08/10] Preprint: Bond-weighting method for the Grassmann tensor renormalization group [arXiv:2208.03227](https://arxiv.org/abs/2208.03227)
 * [2022/06/20] 2022年7月14日に[「第1回量子ソフトウェアシンポジウム」](symposium202207)を開催します
 * [2022/04/01] 秋山進一郎特任助教が着任しました
-* [2022/03/17] 2022年2月28日の[「第1回量子ソフトウェア社会人講座」](openseminar202202)の講義動画をアップロードしました
 
 [これまでのニュース...](news.md)
 
@@ -31,6 +32,13 @@ title: Quantum Software Project
 
 * [2022/10] [計算科学・量子計算における情報圧縮](https://catalog.he.u-tokyo.ac.jp/detail?code=3752-094&year=2022) (大学院・Aセメスター)
 * [2021/12] [量子ソフトウェアパイロット講義: 計算科学・量子計算における情報圧縮](https://github.com/utokyo-qsw/data-compression)
+
+### メディア
+
+* [2022/08/15] 「量子コンピューティングを切り開く」[JST産学官連携ジャーナル 2022年8月号](https://www.jst.go.jp/tt/journal/journal_contents/2022/08/2208-04_article.html)
+* [2021/05/26] 「東大やNECら「量子ソフトウェア」寄付講座を開講 社会人向け講座も」[Ledge.ai](https://ledge.ai/u-tokyo-quantum-software/)
+* [2021/05/21] 「NECと東京大学らが量子コンピュータの専門人材育成に向けて寄付講座を解説」[ITmedia エンタープライズ](https://www.itmedia.co.jp/enterprise/articles/2105/25/news041.html)
+* [2021/05/21] 「量子人材育成へNECやNTT系など9者が連携、東大に寄付講座」[日経クロステック](https://xtech.nikkei.com/atcl/nxt/column/18/01537/00083/)
 
 ### 教員
 
