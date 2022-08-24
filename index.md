@@ -14,8 +14,8 @@ title: Quantum Software Project
 * [2022/08/17] 2022年9月7日に[「第2回量子ソフトウェア社会人講座」](openseminar202209)を開催します
 * [2022/08/15] 「量子コンピューティングを切り開く」[JST産学官連携ジャーナル 2022年8月号](https://www.jst.go.jp/tt/journal/journal_contents/2022/08/2208-04_article.html)
 * [2022/08/10] Preprint: Bond-weighting method for the Grassmann tensor renormalization group [arXiv:2208.03227](https://arxiv.org/abs/2208.03227)
+* [2022/08/01] Sayan Mukherjee客員共同研究員が加わりました
 * [2022/06/20] 2022年7月14日に[「第1回量子ソフトウェアシンポジウム」](symposium202207)を開催します
-* [2022/04/01] 秋山進一郎特任助教が着任しました
 
 [これまでのニュース...](news.md)
 
@@ -40,11 +40,12 @@ title: Quantum Software Project
 * [2021/05/21] 「NECと東京大学らが量子コンピュータの専門人材育成に向けて寄付講座を解説」[ITmedia エンタープライズ](https://www.itmedia.co.jp/enterprise/articles/2105/25/news041.html)
 * [2021/05/21] 「量子人材育成へNECやNTT系など9者が連携、東大に寄付講座」[日経クロステック](https://xtech.nikkei.com/atcl/nxt/column/18/01537/00083/)
 
-### 教員
+### スタッフ
 
-* [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria)
-* [大久保毅](https://tsuyoshi-okubo.com)
-* [秋山進一郎](https://akiyama-es.github.io/index.html)
+* [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria) 教授
+* [大久保毅](https://tsuyoshi-okubo.com) 特任准教授
+* [秋山進一郎](https://akiyama-es.github.io/index.html) 特任助教
+* Sayan Mukherjee 客員共同研究員
 
 ### 協賛企業
 
