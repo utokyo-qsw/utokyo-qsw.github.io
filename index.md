@@ -16,7 +16,7 @@ title: Quantum Software Project
 * [2022/08/15] 「量子コンピューティングを切り開く」[JST産学官連携ジャーナル 2022年8月号](https://www.jst.go.jp/tt/journal/journal_contents/2022/08/2208-04_article.html)
 * [2022/08/10] Preprint: Bond-weighting method for the Grassmann tensor renormalization group [arXiv:2208.03227](https://arxiv.org/abs/2208.03227)
 
-[これまでのニュース...](news.md)
+[これまでのニュース...](news)
 
 
 ### イベント
