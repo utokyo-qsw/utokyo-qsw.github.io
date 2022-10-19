@@ -8,6 +8,7 @@ title: Quantum Software Project - News
 
 ### ニュース
 
+* [2022/11/01] 三菱電機株式会社が[協力企業](sponsor)として「量子ソフトウェア」寄付講座に参画しました
 * [2022/08/31] 2022年9月27日に[「第2回量子ソフトウェア産学協働ゼミ」](joint202209)を開催します
 * [2022/08/17] 2022年9月7日に[「第2回量子ソフトウェア社会人講座」](openseminar202209)を開催します
 * [2022/08/15] 「量子コンピューティングを切り開く」[JST産学官連携ジャーナル 2022年8月号](https://www.jst.go.jp/tt/journal/journal_contents/2022/08/2208-04_article.html)
@@ -22,6 +23,7 @@ title: Quantum Software Project - News
 * [2022/02/03] New paper: Bond-weighted tensor renormalization group, [Phys. Rev. B 105, L060402 (2022)](http://dx.doi.org/10.1103/PhysRevB.105.L060402)
 * [2021/12/01] プレスリリース: トポロジカルスピン結晶の新しい制御法を発見 [[リンク]](https://www.s.u-tokyo.ac.jp/ja/press/2021/7662/)
 * [2021/11/17] 2021年12月7日に[「第1回量子ソフトウェアワークショップ: テンソルネットワークと量子計算の展望」](workshop202112)を開催します
+*  [2021/11/01] 凸版印刷株式会社が[協力企業](sponser)として「量子ソフトウェア」寄付講座に参画しました
 * [2021/09/27] Preprint: Quantum-gate Decomposer [arXiv:2109.13223](http://arxiv.org/abs/2109.13223)
 * [2021/07/01] 大久保毅特任准教授が着任しました
 * [2021/06/01] 東京大学「量子ソフトウェア」寄付講座を開設しました
