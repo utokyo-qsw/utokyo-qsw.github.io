@@ -10,13 +10,14 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2022/10/25] Preprint: Hunting for quantum-classical crossover in condensed matter problems [arXiv:2210.14109](https://arxiv.org/abs/2210.14109)
 * [2022/08/31] 2022年9月27日に[「第2回量子ソフトウェア産学協働ゼミ」](joint202209)を開催します
 * [2022/08/17] 2022年9月7日に[「第2回量子ソフトウェア社会人講座」](openseminar202209)を開催します
 * [2022/08/15] 「量子コンピューティングを切り開く」[JST産学官連携ジャーナル 2022年8月号](https://www.jst.go.jp/tt/journal/journal_contents/2022/08/2208-04_article.html)
 * [2022/08/10] Preprint: Bond-weighting method for the Grassmann tensor renormalization group [arXiv:2208.03227](https://arxiv.org/abs/2208.03227)
 * [2022/08/01] Sayan Mukherjee客員共同研究員が加わりました
 
-[これまでのニュース...](news.md)
+[これまでのニュース...](news)
 
 
 ### イベント
