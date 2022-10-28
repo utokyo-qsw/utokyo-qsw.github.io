@@ -8,6 +8,7 @@ title: Quantum Software Project - News
 
 ### ニュース
 
+* [2022/10/27] 秋山進一郎特任助教が[第17回(2023年)日本物理学会若手奨励賞](https://www.jps.or.jp/activities/awards/jusyosya/wakate2023.php)を受賞しました 
 * [2022/10/25] Preprint: Hunting for quantum-classical crossover in condensed matter problems [arXiv:2210.14109](https://arxiv.org/abs/2210.14109)
 * [2022/08/31] 2022年9月27日に[「第2回量子ソフトウェア産学協働ゼミ」](joint202209)を開催します
 * [2022/08/17] 2022年9月7日に[「第2回量子ソフトウェア社会人講座」](openseminar202209)を開催します
