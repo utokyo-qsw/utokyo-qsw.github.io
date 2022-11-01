@@ -35,10 +35,10 @@ title: Quantum Software Project - 第2回量子ソフトウェア社会人講座
 ### プログラム
 
 <table>
-<tr><td>17:30-18:20</td><td>大久保 毅 (東京大学大学院理学系研究科)<br/>ゲート型量子コンピュータ概念・応用理論<br/><a href="assets/files/20220907_okubo.pdf">[資料]</a> [講義動画]</td></tr>
+<tr><td>17:30-18:20</td><td>大久保 毅 (東京大学大学院理学系研究科)<br/>ゲート型量子コンピュータ概念・応用理論<br/><a href="assets/files/20220907_okubo.pdf">[資料]</a> <a href="https://drive.google.com/file/d/1GLCocO-X2Z7DEWoHePpyDwEOOytR6qTz/view?usp=sharing">[講義動画]</a></td></tr>
 <tr><td>18:20-18:30</td><td>休憩</td></tr>
-<tr><td>18:30-19:00</td><td>山本 剛 (日本電気株式会社セキュアシステムプラットフォーム研究所)<br/>ムーンショット型研究開発事業について<br/><a href="assets/files/20220907_yamamoto.pdf">[資料]</a> [講義動画]</td></tr>
-<tr><td>19:00-19:30</td><td>湊 雄一郎 (blueqat株式会社)<br/>商業における大規模量子ゲート計算でのアプリケーション領域(最適化・機械学習)<br/><a href="assets/files/20220907_minato.pdf">[資料]</a> [講義動画]</td></tr>
+<tr><td>18:30-19:00</td><td>山本 剛 (日本電気株式会社セキュアシステムプラットフォーム研究所)<br/>ムーンショット型研究開発事業について<br/><a href="assets/files/20220907_yamamoto.pdf">[資料]</a> <a href="https://drive.google.com/file/d/17hgW--mrrBSfiWgAvs-FJIjHleXKCvHt/view?usp=sharing">[講義動画]</a></td></tr>
+<tr><td>19:00-19:30</td><td>湊 雄一郎 (blueqat株式会社)<br/>商業における大規模量子ゲート計算でのアプリケーション領域(最適化・機械学習)<br/><a href="assets/files/20220907_minato.pdf">[資料]</a> <a href="https://drive.google.com/file/d/1bJa_mBke8OUAnUZB2qxTvHUWBtTxFl_e/view?usp=sharing">[講義動画]</a></td></tr>
 </table>
 
 ### 主催

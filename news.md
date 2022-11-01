@@ -8,6 +8,7 @@ title: Quantum Software Project - News
 
 ### ニュース
 
+* [2022/11/04] 2022年9月7日の[「第2回量子ソフトウェア社会人講座」](openseminar202209)の講義動画をアップロードしました
 * [2022/11/01] 三菱電機株式会社が[協力企業](sponsor)として「量子ソフトウェア」寄付講座に参画しました
 * [2022/10/27] 秋山進一郎特任助教が[第17回(2023年)日本物理学会若手奨励賞](https://www.jps.or.jp/activities/awards/jusyosya/wakate2023.php)を受賞しました 
 * [2022/10/25] Preprint: Hunting for quantum-classical crossover in condensed matter problems [arXiv:2210.14109](https://arxiv.org/abs/2210.14109)
