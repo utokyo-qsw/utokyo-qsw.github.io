@@ -32,7 +32,7 @@ title: Quantum Software Project
 
 ### 講義
 
-* [2023/10] 計算科学・量子計算における情報圧縮 (大学院・Aセメスター)
+* [2023/10] [計算科学・量子計算における情報圧縮](https://catalog.he.u-tokyo.ac.jp/detail?code=35603-0126&year=2023) (大学院・Aセメスター)
 * [2022/10] [計算科学・量子計算における情報圧縮](https://catalog.he.u-tokyo.ac.jp/detail?code=3752-094&year=2022) (大学院・Aセメスター)
 * [2021/12] [量子ソフトウェアパイロット講義: 計算科学・量子計算における情報圧縮](https://github.com/utokyo-qsw/data-compression)
 
