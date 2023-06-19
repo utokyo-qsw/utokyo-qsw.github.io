@@ -37,7 +37,7 @@ title: Quantum Software Project - 第3回量子ソフトウェアワークショ
 <tr><td> 13:45-14:25</td><td>山崎隼汰 (東京大学)<br/>高速な量子機械学習の理論基盤の構築</td></tr>
 <tr><td> 14:25-15:05</td><td>加藤拓巳 (NTTデータ)<br/>リソース推定 - 誤り耐性量子計算での量子AIに向けて</td></tr>
 <tr><td> 15:05-15:25</td><td>休憩</td></tr>
-<tr><td> 15:25-16:05</td><td>鍛治康次 (SCSK)<br/>TBD</td></tr>
+<tr><td> 15:25-16:05</td><td>鍛治康次 (SCSK)<br/>量子AIシミュレーターと量子SDKの開発</td></tr>
 <tr><td> 16:05-16:45</td><td>根本香絵 (OIST)<br/>TBD</td></tr>
 <tr><td> 16:45-17:00</td><td>全体討論</td></tr>
 <tr><td> 17:00-17:05</td><td>おわりに</td></tr>
