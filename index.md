@@ -10,6 +10,7 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2023/07/28] 2023年9月11日に[「第4回量子ソフトウェアハンズオン(産学協働ゼミ): 量子コンピュータの誤り訂正の基礎」](handson202309)を開催します
 * [2023/06/26] 2023年8月3日に[「第3回量子ソフトウェアワークショップ: 量子AIの可能性と実現への道のり」](workshop202308)を開催します
 * [2023/04/04] Preprint: Matrix product decomposition for two- and three-flavor Wilson fermion: benchmark results in the lattice Gross-Neveu model at finite density [arXiv:2304.01473](https://arxiv.org/abs/2304.01473)
 * [2023/03/13] [「第3回社会人向け講座: 量子コンピューティング技術の概要と疑似量子アニーリングのユースケース」](openseminar202302)の講演動画をアップロードしました
@@ -20,6 +21,7 @@ title: Quantum Software Project
 
 ### イベント
 
+* [2022/09/11] [第4回量子ソフトウェアハンズオン(産学協働ゼミ): 量子コンピュータの誤り訂正の基礎](handson202309)
 * [2023/08/03] [第3回量子ソフトウェアワークショップ: 量子AIの可能性と実現への道のり](workshop202308)
 * [2022/03/31] [第3回量子ソフトウェアハンズオン(産学協働ゼミ): 量子ゲート計算のテンソルネットワークシミュレーション](joint202303)
 * [2023/02/28] [第3回社会人向け講座: 量子コンピューティング技術の概要と疑似量子アニーリングのユースケース](openseminar202302)
