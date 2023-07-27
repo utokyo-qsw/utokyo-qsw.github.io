@@ -22,7 +22,7 @@ title: Quantum Software Project - 第4回量子ソフトウェアハンズオン
 * 場所: [東京大学本郷キャンパス](https://www.u-tokyo.ac.jp/ja/about/campus-guide/map01_02.html) [理学部1号館](https://www.s.u-tokyo.ac.jp/ja/map/map02.html) 2F 233講義室＋オンライン (Webex Meetings)
 * 定員: 30名程度 (事前の参加申し込みが必要です)
 * 対象: 東京大学の学部・大学院学生・博士研究員 / 量子ソフトウェア寄付講座の[協賛・協力企業](sponsor)
-    * Pythonを用いた量子アルゴリズムやテンソルネットワークの実装に興味がある方(Qiskit を使用予定)
+    * Pythonを用いた量子アルゴリズムの実装に興味がある方(Qiskitを使用予定)
     * 一般の方も参加可能ですが、申し込み多数の場合は対象者を優先します
     * 今回のハンズオンで実施する演習内容とプログラムの詳細を開催一週間前を目安に公開する予定です。具体的に必要となるPythonのプログラミングスキルの参考としてください
 * 参加費用: 無料
@@ -31,7 +31,7 @@ title: Quantum Software Project - 第4回量子ソフトウェアハンズオン
 ### 参加申し込み
 
 * 参加申し込み締切: 2023年9月7日(木) 12:00
-* [参加申し込みフォーム](https://forms.gle/xxx) よりお申し込みください
+* [参加申し込みフォーム](https://forms.gle/BkpGzomtv4tfv6dM7) よりお申し込みください
 
 ### 講師
 
