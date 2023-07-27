@@ -3,6 +3,6 @@ services:
     build: .
     volumes:
       - .:/site
-    command: sh -c 'cd /site; bundler install; bundler exec jekyll serve --watch --host 0.0.0.0'
+    command: sh -c 'cd /site; bundler install; bundler exec jekyll serve --incremental --watch --host 0.0.0.0'
     ports:
       - 4000:4000
