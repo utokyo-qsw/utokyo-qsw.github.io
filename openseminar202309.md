@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantum Software Project - 第3回量子ソフトウェア社会人講座
+title: Quantum Software Project - 第4回量子ソフトウェア社会人講座
 ---
 
 ### 【2023年9月13日開催】
