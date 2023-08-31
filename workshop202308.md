@@ -39,7 +39,7 @@ title: Quantum Software Project - 第3回量子ソフトウェアワークショ
 <tr><td> 13:45-14:25</td><td>山崎隼汰 (東京大学)<br/>高速な量子機械学習の理論基盤の構築<br/><a href="assets/files/20230803_yamasaki.pdf">[講演資料]</a> <a href="https://drive.google.com/file/d/1SRogTsBvQDRWqZMNb8yVhJY6-Lu0z4kW/view?usp=sharing">[動画]</a></td></tr>
 <tr><td> 14:25-15:05</td><td>加藤拓己 (株式会社NTTデータグループ)<br/>リソース推定 - 誤り耐性量子計算での量子AIに向けて<br/><a href="assets/files/20230803_kato.pdf">[講演資料]</a> <a href="https://drive.google.com/file/d/1LD-fwGU_NS7S392AENZZYw9JJZiARXt5/view?usp=sharing">[動画]</a></td></tr>
 <tr><td> 15:05-15:25</td><td>休憩</td></tr>
-<tr><td> 15:25-16:05</td><td>鈴木鉄兵 (SCSK株式会社)<br/>量子AIシミュレーターと量子SDKの開発<br/><a href="assets/files/20230803_suzuki.pdf">[講演資料]</a> [動画]</td></tr>
+<tr><td> 15:25-16:05</td><td>鈴木鉄兵 (SCSK株式会社)<br/>量子AIシミュレーターと量子SDKの開発<br/><a href="assets/files/20230803_suzuki.pdf">[講演資料]</a> <a href="https://drive.google.com/file/d/1AOJTCqOw-kY2FqviJrTIpbvDAHQ3eSCI/view?usp=sharing">[動画]</a></td></tr>
 <tr><td> 16:05-16:45</td><td>根本香絵 (沖縄科学技術大学院)<br/>機械学習と量子ダイナミクス<br/>[講演資料] [動画]</td></tr>
 <tr><td> 16:45-17:00</td><td>全体討論</td></tr>
 <tr><td> 17:00-17:05</td><td>おわりに</td></tr>
