@@ -42,8 +42,6 @@ title: Quantum Software Project - 第4回量子ソフトウェアハンズオン
 
 ### 講習資料
 
-講習資料は2023年9月4日までにアップロードの予定です
-
 * [講習資料](https://github.com/utokyo-qsw/joint-seminar/blob/main/202309/README.md)
 
 ### プログラム
