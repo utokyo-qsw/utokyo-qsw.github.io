@@ -35,7 +35,7 @@ title: Quantum Software Project - 第3回量子ソフトウェアワークショ
 
 <table>
 <tr><td> 13:00-13:05</td><td>はじめに</td></tr>
-<tr><td> 13:05-13:45</td><td>山本直樹 (慶應義塾大学)<br/>量子機械学習の可能性<br/><a href="assets/files/20230803_yamamoto.pdf">[講演資料]</a> [動画]</td></tr>
+<tr><td> 13:05-13:45</td><td>山本直樹 (慶應義塾大学)<br/>量子機械学習の可能性<br/><a href="assets/files/20230803_yamamoto.pdf">[講演資料]</a> <a href="https://drive.google.com/file/d/11Rb0LpsDFhfORv6jcIANfvKZDXtHUJYn/view?usp=sharing">[動画]</a></td></tr>
 <tr><td> 13:45-14:25</td><td>山崎隼汰 (東京大学)<br/>高速な量子機械学習の理論基盤の構築<br/><a href="assets/files/20230803_yamasaki.pdf">[講演資料]</a> <a href="https://drive.google.com/file/d/1SRogTsBvQDRWqZMNb8yVhJY6-Lu0z4kW/view?usp=sharing">[動画]</a></td></tr>
 <tr><td> 14:25-15:05</td><td>加藤拓己 (株式会社NTTデータグループ)<br/>リソース推定 - 誤り耐性量子計算での量子AIに向けて<br/><a href="assets/files/20230803_kato.pdf">[講演資料]</a> <a href="https://drive.google.com/file/d/1LD-fwGU_NS7S392AENZZYw9JJZiARXt5/view?usp=sharing">[動画]</a></td></tr>
 <tr><td> 15:05-15:25</td><td>休憩</td></tr>
