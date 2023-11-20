@@ -10,17 +10,18 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2023/11/20] 2023年12月15日に[「第4回量子ソフトウェアワークショップ: NISQ計算機時代の量子シミュレーションと量子コンピュータシミュレータ」](workshop202312)を開催します
 * [2023/08/30] [「第3回量子ソフトウェアワークショップ: 量子AIの可能性と実現への道のり」](workshop202308)の講演資料・動画を公開しました。未公開のものについても確認とれ次第順次公開の予定です
 * [2023/08/07] 2023年9月13日に[「第4回社会人向け講座: 量子アニーリングの特徴とビジネス活用メリット」](openseminar202309)を開催します
 * [2023/07/28] 2023年9月11日に[「第4回量子ソフトウェアハンズオン(産学協働ゼミ): 量子コンピュータの誤り訂正の基礎」](handson202309)を開催します
 * [2023/06/26] 2023年8月3日に[「第3回量子ソフトウェアワークショップ: 量子AIの可能性と実現への道のり」](workshop202308)を開催します
 * [2023/04/04] Preprint: Matrix product decomposition for two- and three-flavor Wilson fermion: benchmark results in the lattice Gross-Neveu model at finite density [arXiv:2304.01473](https://arxiv.org/abs/2304.01473)
-* [2023/03/13] [「第3回社会人向け講座: 量子コンピューティング技術の概要と疑似量子アニーリングのユースケース」](openseminar202302)の講演動画をアップロードしました
 
 [これまでのニュース...](news)
 
 ### イベント
 
+* [2023/12/25] [第4回量子ソフトウェアワークショップ: NISQ計算機時代の量子シミュレーションと量子コンピュータシミュレータ](workshop202312)
 * [2023/09/13] [第4回社会人向け講座: 量子アニーリングの特徴とビジネス活用メリット](openseminar202309)
 * [2022/09/11] [第4回量子ソフトウェアハンズオン(産学協働ゼミ): 量子コンピュータの誤り訂正の基礎](handson202309)
 * [2023/08/03] [第3回量子ソフトウェアワークショップ: 量子AIの可能性と実現への道のり](workshop202308)
@@ -51,6 +52,7 @@ title: Quantum Software Project
 
 * [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria) 教授
 * [大久保毅](https://tsuyoshi-okubo.com) 特任准教授
+* 山田昌彦 特任講師
 * [秋山進一郎](https://akiyama-es.github.io/index.html) 客員共同研究員
 * Sayan Mukherjee 客員共同研究員
 
@@ -64,6 +66,7 @@ title: Quantum Software Project
 * [東京大学大学院理学系研究科物理学専攻](https://www.phys.s.u-tokyo.ac.jp/)
 * [東京大学大学院理学系研究科物理学専攻 藤堂研究室](https://exa.phys.s.u-tokyo.ac.jp/)
 * [東京大学量子イニシアティブ](https://www.u-tokyo.ac.jp/adm/fsi/ja/projects/quantum/project_00066.html)
+* [COI-NEXT「量子ソフトウェアとHPC・シミュレーション技術の共創によるサスティナブルAI研究拠点」](https://sqai.jp)
 
 ### お問い合わせ
 
