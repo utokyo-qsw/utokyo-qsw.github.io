@@ -10,12 +10,11 @@ title: Quantum Software Project
 
 ### ニュース
 
+* [2023/12/01] 上田和茂特任助教が着任しました
 * [2023/11/20] 2023年12月25日に[「第4回量子ソフトウェアワークショップ: NISQ計算機時代の量子シミュレーションと量子コンピュータシミュレータ」](workshop202312)を開催します
+* [2023/11/01] 山田昌彦特任講師が着任しました
 * [2023/08/30] [「第3回量子ソフトウェアワークショップ: 量子AIの可能性と実現への道のり」](workshop202308)の講演資料・動画を公開しました。未公開のものについても確認とれ次第順次公開の予定です
 * [2023/08/07] 2023年9月13日に[「第4回社会人向け講座: 量子アニーリングの特徴とビジネス活用メリット」](openseminar202309)を開催します
-* [2023/07/28] 2023年9月11日に[「第4回量子ソフトウェアハンズオン(産学協働ゼミ): 量子コンピュータの誤り訂正の基礎」](handson202309)を開催します
-* [2023/06/26] 2023年8月3日に[「第3回量子ソフトウェアワークショップ: 量子AIの可能性と実現への道のり」](workshop202308)を開催します
-* [2023/04/04] Preprint: Matrix product decomposition for two- and three-flavor Wilson fermion: benchmark results in the lattice Gross-Neveu model at finite density [arXiv:2304.01473](https://arxiv.org/abs/2304.01473)
 
 [これまでのニュース...](news)
 
@@ -53,6 +52,7 @@ title: Quantum Software Project
 * [藤堂眞治](https://exa.phys.s.u-tokyo.ac.jp/ja/members/wistaria) 教授
 * [大久保毅](https://tsuyoshi-okubo.com) 特任准教授
 * 山田昌彦 特任講師
+* 上田和茂 特任助教
 * [秋山進一郎](https://akiyama-es.github.io/index.html) 客員共同研究員
 * Sayan Mukherjee 客員共同研究員
 
