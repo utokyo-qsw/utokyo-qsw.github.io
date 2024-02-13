@@ -56,7 +56,6 @@ title: Quantum Software Project
 * 上田和茂 特任助教
 * Sayan Mukherjee 特任助教
 * [秋山進一郎](https://akiyama-es.github.io/index.html) 客員共同研究員
-* Sayan Mukherjee 客員共同研究員
 
 ### 協賛企業・協力企業
 
