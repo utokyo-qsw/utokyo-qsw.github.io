@@ -36,10 +36,10 @@ title: Quantum Software Project - 第4回量子ソフトウェアワークショ
 <table>
 <tr><td> 13:15-13:20</td><td>はじめに</td></tr>
 <tr><td> 13:20-14:00</td><td>佐藤 健 (東京大学 大学院工学系研究科)<br/>量子コンピューターを用いた量子多体系のシミュレーション</td></tr>
-<tr><td> 14:00-14:40</td><td>山崎雅文 (富士通株式会社 富士通研究所コンピューティング研究所)<br/>量子回路シミュレータの開発</td></tr>
+<tr><td> 14:00-14:40</td><td>山崎雅文 (富士通株式会社 富士通研究所コンピューティング研究所)<br/>量子回路シミュレータの開発<br/><a href="assets/files/20231225_yamazaki.pdf">[講演資料]</a></td></tr>
 <tr><td> 14:40-15:00</td><td>休憩</td></tr>
-<tr><td> 15:00-15:40</td><td>森野慎也 (NVIDIA)<br/>NVIDIA cuQuatum SDKによるGPUステートベクトルシミュレーションの高速化<br><a href="assets/files/202312_morino.pdf">[講演資料]</a></td></tr>
-<tr><td> 15:40-16:20</td><td>白川知功 (理化学研究所 計算科学研究センター)<br/>テンソルネットワーク法を用いた量子計算のシミュレーション</td></tr>
+<tr><td> 15:00-15:40</td><td>森野慎也 (NVIDIA)<br/>NVIDIA cuQuatum SDKによるGPUステートベクトルシミュレーションの高速化<br><a href="assets/files/20231225_morino.pdf">[講演資料]</a></td></tr>
+<tr><td> 15:40-16:20</td><td>白川知功 (理化学研究所 計算科学研究センター)<br/>テンソルネットワーク法を用いた量子計算のシミュレーション<br/><a href="assets/files/20231225_shirakawa.pdf">[講演資料]</a></td></tr>
 <tr><td> 16:20-16:40</td><td>全体討論</td></tr>
 <tr><td> 16:40-17:00</td><td>休憩</td></tr>
 <tr><td> 17:00-19:00</td><td>ポスターセッション・意見交換会 (現地)<br/> (軽食を準備します)</td></tr>
