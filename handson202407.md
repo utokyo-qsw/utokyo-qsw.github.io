@@ -31,7 +31,7 @@ title: Quantum Software Project - 第6回量子ソフトウェアハンズオン
 ### 参加申し込み
 
 * 参加申し込み締切: 2024年7月25日(木) 12:00
-* [参加申し込みフォーム](https://forms.gle/xxx)よりお申し込みください
+* [参加申し込みフォーム](https://forms.gle/5R4954vVNwNPHfBW9)よりお申し込みください
 
 ### 講師
 
