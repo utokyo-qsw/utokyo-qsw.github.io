@@ -42,7 +42,7 @@ title: Quantum Software Project - 第6回量子ソフトウェアハンズオン
 
 ### 講習資料
 
-* 講習資料 (開催一週間前を目途に公開する予定です)
+* [講習資料](https://github.com/utokyo-qsw/joint-seminar/blob/main/202407/README.md)
 
 ### プログラム
 
