@@ -37,7 +37,7 @@ title: Quantum Software Project - 第6回量子ソフトウェア社会人講座
 
 <table>
 <tr><td>17:30-17:45</td><td>藤堂眞治 (東京大学大学院理学系研究科)<br/>SQAI (サスティナブル量子AI研究拠点)ご紹介</td></tr>
-<tr><td>17:45-18:45</td><td>天野英晴 (東京大学大学院工学研究科附属システムデザイン研究センター)<br/>Next富岳Feasibility Study 新計算原理チームの調査報告</td></tr>
+<tr><td>17:45-18:45</td><td>天野英晴 (東京大学大学院工学研究科附属システムデザイン研究センター)<br/>Next富岳Feasibility Study 新計算原理チームの調査報告<br/><a href="assets/files/20240909_amano.pdf">[講演資料]</a></td></tr>
 <tr><td>18:45-18:55</td><td>質疑応答</td></tr>
 </table>
 
