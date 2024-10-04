@@ -54,11 +54,11 @@ title: Quantum Software Project - 協賛企業・協力企業一覧
 
 <table class="noborder">
 <tr class="noborder">
-  <td class="noborder"><a href="https://www.toppan.co.jp/"><div class="logo"><img alt="凸版印刷株式会社" src="assets/images/toppan.png" width="300"/></div></a></td>
+  <td class="noborder"><a href="https://www.holdings.toppan.com/"><div class="logo"><img alt="TOPPANホールディングス株式会社" src="assets/images/toppan.png" width="300"/></div></a></td>
   <td class="noborder"><a href="https://www.mitsubishielectric.co.jp/"><div class="logo"><img src="assets/images/m-electric.jpg" width="300"/></div></a></td>
 </tr>
 <tr class="noborder">
-  <td class="noborder"><a href="https://www.toppan.co.jp/">凸版印刷株式会社 </a></td>
+  <td class="noborder"><a href="https://www.holdings.toppan.com/">TOPPANホールディングス株式会社</a></td>
   <td class="noborder"><a href="https://www.mitsubishielectric.co.jp/"> 三菱電機株式会社</a></td>
 </tr>
 </table>
