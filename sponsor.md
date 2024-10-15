@@ -18,11 +18,11 @@ title: Quantum Software Project - 協賛企業・協力企業一覧
   <td class="noborder"><a href="https://www.nttdata.com/jp/ja/">株式会社NTTデータ</a></td>
 </tr>
 <tr class="noborder">
-  <td class="noborder"><a href="https://www.isid.co.jp/"><div class="logo"><img alt="株式会社電通国際情報サービス" src="assets/images/isid.jpg" width="300"/></div></a></td>
+  <td class="noborder"><a href="https://www.dentsusoken.com/"><div class="logo"><img alt="株式会社電通総研" src="assets/images/dentsusoken.jpg" width="300"/></div></a></td>
   <td class="noborder"><a href="https://www.nssol.nipponsteel.com/"><div class="logo"><img alt="日鉄ソリューションズ株式会社" src="assets/images/nssol.jpg" width="300"/></div></a></td>
 </tr>
 <tr class="noborder">
-  <td class="noborder"><a href="https://www.isid.co.jp/">株式会社電通国際情報サービス</a></td>
+  <td class="noborder"><a href="https://www.dentsusoken.com/">株式会社電通総研</a></td>
   <td class="noborder"><a href="https://www.nssol.nipponsteel.com/">日鉄ソリューションズ株式会社</a></td>
 </tr>
 <tr class="noborder">
