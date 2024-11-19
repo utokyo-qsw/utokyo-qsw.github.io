@@ -29,7 +29,7 @@ title: Quantum Software Project - 第5回量子ソフトウェアワークショ
 ### 参加申し込み
 
 * 参加申し込み締切: 2024年12月19日(木) 正午
-* [参加申し込みフォーム](https://forms.gle/xxx) よりお申し込みください
+* [参加申し込みフォーム](https://forms.gle/Z8uxeiaz3uLBa7rK9) よりお申し込みください
 * ZoomのURLは2024年12月23日にメールにてお知らせする予定です
 
 ### プログラム
