@@ -47,7 +47,7 @@ title: Quantum Software Project - 第6回量子ソフトウェアワークショ
 
 ### 協賛
 
-* [COI-NEXT「量子ソフトウェアとHPC・シミュレーション技術の共創によるサスティナブルAI研究拠点」](https://sqai.jp) (予定)
+* [COI-NEXT「量子ソフトウェアとHPC・シミュレーション技術の共創によるサスティナブルAI研究拠点」](https://sqai.jp)
 
 ### 協力
 
