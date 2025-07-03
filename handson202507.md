@@ -19,7 +19,7 @@ title: Quantum Software Project - 第8回量子ソフトウェアハンズオン
 ### 開催要項
 
 * 日時: 2025年7月28日(月) 13:00-17:00
-* 場所: [東京大学本郷キャンパス](https://www.u-tokyo.ac.jp/ja/about/campus-guide/map01_02.html) [理学部1号館](https://www.s.u-tokyo.ac.jp/ja/map/map02.html) 3F 340講義室
+* 場所: [東京大学本郷キャンパス](https://www.u-tokyo.ac.jp/ja/about/campus-guide/map01_02.html) [理学部1号館](https://www.u-tokyo.ac.jp/campusmap/cam01_06_01_j.html) 3F 340講義室
 	* 原則現地での参加とします。遠方に住む方で、オンラインでの聴講を希望される方はご相談ください。
 	* 演習後半で実施するグループディスカッションについては、現地のみで実施の予定です。オンラインは聴講のみとなります。ご了承ください。
 * 定員: 30名程度 (事前の参加申し込みが必要です)
@@ -34,7 +34,7 @@ title: Quantum Software Project - 第8回量子ソフトウェアハンズオン
 ### 参加申し込み
 
 * 参加申し込み締切: 2025年7月25日(金) 正午
-* [参加申し込みフォーム](https://forms.gle/xxx)よりお申し込みください
+* [参加申し込みフォーム](https://forms.gle/fQ8AUfKvcpC53khe6)よりお申し込みください
 
 ### 講師
 
@@ -53,11 +53,9 @@ title: Quantum Software Project - 第8回量子ソフトウェアハンズオン
 <tr><td>13:00-13:10</td><td>はじめに</td></tr>
 <tr><td>13:10-14:00</td><td>講義：量子誤り訂正の基礎</td></tr>
 <tr><td>14:00-14:10</td><td>休憩</td></tr>
-<tr><td>14:10-15:00</td><td>【演習１】Shorの符号の実装・論理ビット操作
-</td></tr>
-<tr><td>15:00-15:10</td><td>【演習２】Steane符号の実装・論理ビット操作
-</td></tr>
-<tr><td>15:10-16:30</td><td>休憩</td></tr>
+<tr><td>14:10-15:00</td><td>【演習１】Shorの符号の実装・論理ビット操作</td></tr>
+<tr><td>15:00-15:10</td><td>休憩</td></tr>
+<tr><td>15:10-16:30</td><td>【演習２】Steane符号の実装・論理ビット操作</td></tr>
 <tr><td>16:30-17:00</td><td>全体ディスカッション・まとめ</td></tr>
 </table>
 
