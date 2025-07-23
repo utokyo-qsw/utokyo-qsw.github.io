@@ -34,7 +34,7 @@ title: Quantum Software Project - 第8回量子ソフトウェア社会人講座
 ### 参加申し込み
 
 * 参加申し込み締切: 2025年9月5日(金) 正午
-* [参加申し込みフォーム](https://forms.gle/xxx)よりお申し込みください
+* [参加申し込みフォーム](https://forms.gle/St4Hdt6LRG5wCSFP6)よりお申し込みください
 
 ### プログラム
 
