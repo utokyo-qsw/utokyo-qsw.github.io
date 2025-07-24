@@ -45,7 +45,7 @@ title: Quantum Software Project - 第8回量子ソフトウェアハンズオン
 
 ### 講習資料
 
-* 講習資料 (2025年7月22日頃アップロード予定) 
+* [講習資料](https://github.com/utokyo-qsw/joint-seminar/blob/main/202507/README.md)
 
 ### プログラム
 
