@@ -40,7 +40,7 @@ title: Quantum Software Project - 第8回量子ソフトウェア社会人講座
 
 <table>
 <tr><td>17:30-17:35</td><td>藤堂眞治 (東京大学大学院理学系研究科)</td></tr>
-<tr><td>17:35-18:10</td><td>桐原明宏 (日本電気株式会社セキュアシステムプラットフォーム研究所)<br/>量子センシング技術の背景・基礎と、最新の開発動向<br/><a href="assets/files/20250908_kirihara.pdf">[講演資料]</a></td></tr>
+<tr><td>17:35-18:10</td><td>桐原明宏 (日本電気株式会社セキュアシステムプラットフォーム研究所)<br/>量子センシング技術の背景・基礎と、最新の開発動向<br/><a href="assets/files/20250908_kirihara.pdf">[講演資料]</a> <a href="https://drive.google.com/file/d/1S5aIVKmgMxhzhrQTTnyCr6CP1-QQLyT7/view?usp=sharing">[講義動画]</a></td></tr>
 <tr><td>18:10-18:50</td><td>桐原明宏 (日本電気株式会社セキュアシステムプラットフォーム研究所)<br/>中性原子を用いた小型量子時計技術の研究開発<br/></td></tr>
 </table>
 
