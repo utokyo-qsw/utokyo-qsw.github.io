@@ -31,7 +31,7 @@ title: Quantum Software Project - 第3回量子ソフトウェアシンポジウ
 ### 参加申し込み
 
 * 参加申し込み締切: 2026年1月30日(金) 正午
-* [参加申し込みフォーム](https://forms.gle/xxx)よりお申し込みください
+* [参加申し込みフォーム](https://forms.gle/g4ebnFsHuvtTUQPu9)よりお申し込みください
 * ZoomのURLは2026年2月4日(水)にメールにてお知らせする予定です
 
 ### プログラム
