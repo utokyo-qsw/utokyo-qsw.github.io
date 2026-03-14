@@ -34,8 +34,8 @@ title: Quantum Software Project - 第9回量子ソフトウェア社会人講座
 
 <table>
 <tr><td>17:30-17:35</td><td>藤堂眞治 (東京大学大学院理学系研究科)<br/>はじめに</td></tr>
-<tr><td>17:35-18:00</td><td>岩井大介 (富士通 戦略アライアンス本部 Excective Director / Q-STAR 最適化・組合せ問題に関する部会 部会長)<br/>Q-STARの活動全体概要<br/>[講演資料]</td></tr>
-<tr><td>18:00-18:50</td><td>岩井大介 (富士通 戦略アライアンス本部 Excective Director /  Q-STAR 最適化・組合せ問題に関する部会 部会長)<br/>最適化・組合せ問題に関する部会の取組みとユースケース紹介<br/>[講演資料]</td></tr>
+<tr><td>17:35-18:00</td><td>岩井大介 (富士通 戦略アライアンス本部 Excective Director / Q-STAR 最適化・組合せ問題に関する部会 部会長)<br/>Q-STARの活動全体概要<br/><a href="assets/files/20260316_iwai-1.pdf">[講演資料]</a></td></tr>
+<tr><td>18:00-18:50</td><td>岩井大介 (富士通 戦略アライアンス本部 Excective Director /  Q-STAR 最適化・組合せ問題に関する部会 部会長)<br/>最適化・組合せ問題に関する部会の取組みとユースケース紹介<br/><a href="assets/files/20260316_iwai-2.pdf">[講演資料]</a></td></tr>
 </table>
 
 ### 主催
