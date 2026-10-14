@@ -8,7 +8,7 @@ title: Quantum Software Project - 第10回量子ソフトウェアハンズオ�
 
 ### 開催趣旨
 
-テーマ: 「Quapp.cloud」を用いた量子プログラミング演習（①シミュレータ編）
+テーマ: 「Quapp.cloud」を用いた量子プログラミング演習（① シミュレータ編）
 
 Quapp社は、Web上から利用できる量子・HPCハイブリッドプラットフォームQuapp.cloudを提供しています。
 Quapp.cloudでは、現在、Rigetti、OQC、Qudora、Quandelaの量子コンピュータが利用可能です。
@@ -26,8 +26,8 @@ Quapp.cloudでは、さまざまな量子アルゴリズムのサンプルプロ
 
 この量子半加算器を共通の題材として、第2回と第3回では、それぞれ異なる量子ハードウェアとSDKを用いて実装します。
 第2回と第3回の実施予定日と概要は、以下のとおりです。詳細が決まり次第、Webページへのリンクを追加します。
-* ②Quandela/Rigetti編(日程調整中)
-* ③Qudora編(2027年2月1日)
+* ② Quandela/Rigetti編 (日程調整中)
+* ③ Qudora編 (2027年2月1日)
 
 それぞれの内容は独立しているため、任意の回にご参加いただけます。
 初回を受講いただくことで、第2回以降の内容もよりスムーズにご理解いただけます。
@@ -36,7 +36,7 @@ Quapp.cloudでは、さまざまな量子アルゴリズムのサンプルプロ
 
 ### 開催要項
 
-* 日時: 2026年11月10日(水) 13:30-16:30
+* 日時: 2026年11月10日(火) 13:30-16:30
 
 * 場所: [東京大学本郷キャンパス](https://www.u-tokyo.ac.jp/ja/about/campus-guide/map01_02.html) [理学部1号館](https://www.u-tokyo.ac.jp/campusmap/cam01_06_01_j.html) 3階 337A講義室
   * 対面のみの開催で、オンライン配信は致しません。
@@ -51,7 +51,7 @@ Quapp.cloudでは、さまざまな量子アルゴリズムのサンプルプロ
 
 * 参加申し込み締切: 2026年11月6日(金)
 
-* [参加申し込みフォーム](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=--J4Pt7rWUSCgI2D3HOPeurcJidMxmpMoTx_N1wh46tUOVBMTlRZNFlMV0wwWE5ZUVRHOENJTks0UC4u)よりお申し込みください。
+* [参加申込フォーム](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=--J4Pt7rWUSCgI2D3HOPeurcJidMxmpMoTx_N1wh46tUOVBMTlRZNFlMV0wwWE5ZUVRHOENJTks0UC4u)よりお申し込みください。
 
 
 ### 講師
@@ -61,7 +61,7 @@ Quapp.cloudでは、さまざまな量子アルゴリズムのサンプルプロ
 
 ### 講習資料
 
-* [講習資料](https://github.com/utokyo-qsw/joint-seminar/blob/main/202609/README.md)
+* 講習資料は後日公開する予定です。
 
 ### プログラム
 
