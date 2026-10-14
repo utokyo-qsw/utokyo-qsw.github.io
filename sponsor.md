@@ -6,7 +6,51 @@ title: Quantum Software Project - 協賛企業・協力企業一覧
 東京大学大学院理学系研究科
 ##  「量子ソフトウェア」寄付講座
 
-### 協賛企業 (五十音順)
+### 協賛・協力企業 (2026年度〜)
+
+<table class="noborder">
+<tr class="noborder">
+  <td class="noborder"><a href="https://www.quemix.com/"><div class="logo"><img alt="株式会社Quemix" src="assets/images/null.png" width="300"/></div></a></td>
+  <td class="noborder"><a href="https://www.dentsusoken.com/"><div class="logo"><img alt="株式会社電通総研" src="assets/images/dentsusoken.jpg" width="300"/></div></a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder"><a href="https://www.quemix.com/">株式会社Quemix</a></td>
+  <td class="noborder"><a href="https://www.dentsusoken.com/">株式会社電通総研</a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder"><a href="https://www.smfg.co.jp/"><div class="logo"><img alt="株式会社三井住友フィナンシャルグループ" src="assets/images/smbc.jpg" width="300"/></div></a></td>
+  <td class="noborder"><a href="https://www.jri.co.jp/"><div class="logo"><img alt="株式会社日本総合研究所" src="assets/images/jri.jpg" width="300"/></div></a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder" colspan="2"><a href="https://www.smfg.co.jp/">株式会社三井住友フィナンシャルグループ</a>・<a href="https://www.jri.co.jp/">株式会社日本総合研究所</a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder"><a href="https://jpn.nec.com/"><div class="logo"><img alt="日本電気株式会社" src="assets/images/nec.png" width="300"/></div></a></td>
+  <td class="noborder"><a href="https://blueqat.co.jp/"><div class="logo"><img alt="blueqat株式会社" src="assets/images/bluecat.png" width="300"/></div></a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder"><a href="https://jpn.nec.com/">日本電気株式会社</a></td>
+  <td class="noborder"><a href="https://blueqat.co.jp/">blueqat株式会社</a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder"><a href="https://quantinuum.co.jp/"><div class="logo"><img alt="クオンティニュアム株式会社" src="assets/images/null.png" width="300"/></div></a></td>
+  <td class="noborder"><a href="https://www.simplex.inc/"><div class="logo"><img alt="シンプレクス株式会社" src="assets/images/null.png" width="300"/></div></a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder"><a href="https://quantinuum.co.jp/"><div class="logo">クオンティニュアム株式会社</div></a></td>
+  <td class="noborder"><a href="https://www.simplex.inc/"><div class="logo">シンプレクス株式会社</div></a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder"><a href="https://quapp.cloud/ja/"><div class="logo"><img alt="Quapp株式会社" src="assets/images/null.png" width="300"/></div></a></td>
+</tr>
+<tr class="noborder">
+  <td class="noborder"><a href="https://quapp.cloud/ja"><div class="logo">Quapp株式会社</div></a></td>
+</tr>
+
+</table>
+
+
+### 協賛・協力企業 (2021年度〜2025年度)
 
 <table class="noborder">
 <tr class="noborder">
@@ -48,11 +92,6 @@ title: Quantum Software Project - 協賛企業・協力企業一覧
   <td class="noborder"><a href="https://www.fujitsu.com/jp/about/resources/terms/howtolink">富士通株式会社</a></td>
   <td class="noborder"><a href="https://blueqat.com/">blueqat株式会社</a></td>
 </tr>
-</table>
-
-### 協力企業 (五十音順)
-
-<table class="noborder">
 <tr class="noborder">
   <td class="noborder"><a href="https://www.holdings.toppan.com/"><div class="logo"><img alt="TOPPANホールディングス株式会社" src="assets/images/toppan.png" width="300"/></div></a></td>
   <td class="noborder"><a href="https://www.mitsubishielectric.co.jp/"><div class="logo"><img src="assets/images/m-electric.jpg" width="300"/></div></a></td>
