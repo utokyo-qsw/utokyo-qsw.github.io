@@ -26,7 +26,7 @@ Quapp.cloudでは、さまざまな量子アルゴリズムのサンプルプロ
 
 この量子半加算器を共通の題材として、第2回と第3回では、それぞれ異なる量子ハードウェアとSDKを用いて実装します。
 第2回と第3回の実施予定日と概要は、以下のとおりです。詳細が決まり次第、Webページへのリンクを追加します。
-* ② Quandela/Rigetti編 (2027年2月1日)
+* ② Quandela編 (2027年2月1日)
 * ③ Qudora編 (日程調整中)
 
 それぞれの内容は独立しているため、任意の回にご参加いただけます。
@@ -59,6 +59,14 @@ Quapp.cloudでは、さまざまな量子アルゴリズムのサンプルプロ
 * ファン・トゥアン・タイ（Quapp株式会社CEO）
 * 木村　吉孝（Quapp株式会社事業開発）
 
+### 講演者
+
+**Mike Piech（Rigetti Computing）**
+
+![Mike Piech氏の写真](https://media.licdn.com/dms/image/v2/D4D03AQH3lOwTpUqc1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1667518653998?e=2147483647&v=beta&t=IFy7qmvUXZTpJgPbBFCRYhQuN01HrSk5NvuKbAehBu0)
+
+Rigetti Computingの事業開発担当副社長。Red Hat、Oracle、BEAなどでエンタープライズ向けソフトウェアの製品開発チームを率いた経験を持つ。現在は、量子コンピュータの実用化と社会実装の推進に取り組んでいる。
+
 ### 講習資料
 
 * 講習資料は後日公開する予定です。
@@ -87,7 +95,7 @@ Quapp.cloudでは、さまざまな量子アルゴリズムのサンプルプロ
       <td>休憩</td>
     </tr>
     <tr>
-      <td>14:20-15:50</td>
+      <td>14:20-15:30</td>
       <td>
         実習：Quappを用いた量子プログラミング
         <ul>
@@ -95,16 +103,11 @@ Quapp.cloudでは、さまざまな量子アルゴリズムのサンプルプロ
           <li>古典回路から可逆量子ゲートへのマッピング</li>
           <li>Quapp 上での「01+01」（量子半加算器）のプログラミング実装と検証</li>
         </ul>
-        実習：様々なSDKを用いた量子プログラミング
-        <ul>
-          <li>古典プログラミングでの「01＋01」について</li>
-          <li>Qiskitを用いた「01+01」の実装と結果の解釈</li>
-        </ul>
       </td>
     </tr>
     <tr>
-      <td>15:50-16:00</td>
-      <td>休憩</td>
+      <td>15:30-16:00</td>
+      <td>Rigetti Computing, Mike Piech氏による特別講演</td>
     </tr>
     <tr>
       <td>16:00-16:20</td>
