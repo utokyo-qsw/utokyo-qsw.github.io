@@ -80,22 +80,27 @@ Rigetti Computingの事業開発担当副社長。Red Hat、Oracle、BEAなど�
       <td>はじめに</td>
     </tr>
     <tr>
-      <td>13:40-14:10</td>
+      <td>13:40-14:20</td>
       <td>
         講義：量子コンピューティングの基礎
         <ul>
           <li>量子ビットと重ね合わせの概念</li>
           <li>ブロッホ球の可視化</li>
           <li>エンタングルメントの生成</li>
+          <li>Quapp操作紹介</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14:10-14:20</td>
+      <td>14:20-14:30</td>
       <td>休憩</td>
     </tr>
     <tr>
-      <td>14:20-15:30</td>
+      <td>14:30-15:00</td>
+      <td>Rigetti Computing, Mike Piech氏による特別講演</td>
+    </tr>
+    <tr>
+      <td>15:00-16:00</td>
       <td>
         実習：Quappを用いた量子プログラミング
         <ul>
@@ -104,10 +109,6 @@ Rigetti Computingの事業開発担当副社長。Red Hat、Oracle、BEAなど�
           <li>Quapp 上での「01+01」（量子半加算器）のプログラミング実装と検証</li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>15:30-16:00</td>
-      <td>Rigetti Computing, Mike Piech氏による特別講演</td>
     </tr>
     <tr>
       <td>16:00-16:20</td>
